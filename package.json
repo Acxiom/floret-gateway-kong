@@ -19,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/Acxiom/floret-gateway-kong/issues"
   },
-  "homepage": "https://github.com/Acxiom/floret-gateway-kong#readme"
+  "homepage": "https://github.com/Acxiom/floret-gateway-kong#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
 }
